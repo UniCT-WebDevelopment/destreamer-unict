@@ -1,0 +1,12 @@
+.*
+.vscode/
+.idea/
+build/
+videos/
+*.txt
+*.log
+*.js
+node_modules/
+package-lock.json
+swagger.json
+cc.json
